@@ -1,7 +1,7 @@
 def main():
 
     # The list below will be used for all of the exercises below:
-    names = ["Abigail", "Brenda", "Chad", "Doug", "Emma", "Francis", "George", "Harold", "Imogen”",
+    name = ["Abigail", "Brenda", "Chad", "Doug", "Emma", "Francis", "George", "Harold", "Imogen”",
     "Jackie", "Kurt", "Linda"]
 
    # The list below will be used for all of the exercises below:
@@ -10,7 +10,7 @@ def main():
 # Answer print(names[0:3])
 
 # 1. Print ['Doug', 'Emma']
-print(names[3:5])
+print(name[3:5])
 
 # 2. Print [‘Brenda’, ‘Chad’, ‘Doug’, ‘Emma’, ‘Francis’]
 print(names[1:6])

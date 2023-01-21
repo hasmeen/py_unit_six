@@ -6,7 +6,6 @@ def swap(list_one):
     """
     pass # make sure to remove this line before beginning work on this function
 
-
 def rotate_left(list_one):
     """
     Given a list of ints length 3, return a list with the elements "rotated left" so [1, 2, 3] yields [2, 3, 1].
